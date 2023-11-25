@@ -7,8 +7,14 @@ Website Desa Kupu, yang terletak di Kecamatan Dukuhturi, Kabupaten Tegal, adalah
 
 ![alt text](https://github.com/Avrians/WebsiteDesaKupu-Dukuhturi-Tegal_WebApps/blob/main/img/halaman%20index-1.png?raw=true)
 
+![alt text](https://github.com/Avrians/WebsiteDesaKupu-Dukuhturi-Tegal_WebApps/blob/main/img/halaman%20index-2.png?raw=true)
+
+![alt text](https://github.com/Avrians/WebsiteDesaKupu-Dukuhturi-Tegal_WebApps/blob/main/img/halaman%20index-3.png?raw=true)
+
+![alt text](https://github.com/Avrians/WebsiteDesaKupu-Dukuhturi-Tegal_WebApps/blob/main/img/halaman%20index-4.png?raw=true)
+
 <h3>Halaman Dasboard Admin</h3>
 
-![alt text](https://github.com/Avrians/CRUD-Flask_WebApps/blob/main/hasilScreanShoot/update.png?raw=true)
+![alt text](https://github.com/Avrians/WebsiteDesaKupu-Dukuhturi-Tegal_WebApps/blob/main/img/halaman%20dashboard%20admin.png?raw=true)
 
-![alt text](https://github.com/Avrians/CRUD-Flask_WebApps/blob/main/hasilScreanShoot/delete.png?raw=true)
+![alt text](https://github.com/Avrians/WebsiteDesaKupu-Dukuhturi-Tegal_WebApps/blob/main/img/daftar%20berita.png?raw=true)
